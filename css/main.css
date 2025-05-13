@@ -1,0 +1,20 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.products{
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    row-gap: 50px;
+column-gap: 50px;
+}
+.product{
+    width: 30%;
+    text-align: center;
+}
+img{
+    width: 300px;
+}
